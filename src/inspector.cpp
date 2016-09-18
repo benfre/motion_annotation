@@ -13,6 +13,7 @@
 #include <motion_annotation/box_selection.h>
 #include <fstream>
 #include <iostream>
+#include <set>
 
 namespace bfs = boost::filesystem;
 

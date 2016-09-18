@@ -12,6 +12,7 @@
 #include <motion_annotation/motion_logger.h>
 #include <motion_annotation/box_selection.h>
 #include <iostream>
+#include <set>
 
 
 int main(int argc, char** argv)
